@@ -1,0 +1,8 @@
+# ninja log v5
+44	5059	7377856136081210	CMakeFiles/untitled.dir/main.c.obj	a5c2fc14f1f3f808
+5075	5461	7377856139993033	untitled.exe	1f994d9c0e7a466f
+71	5067	7377856136150472	CMakeFiles/untitled.dir/src/temperature.c.obj	27f656ef81a241d6
+86	5074	7377856136197590	CMakeFiles/untitled.dir/src/tree.c.obj	c1a78af2a03040a9
+62	5066	7377856136091172	CMakeFiles/untitled.dir/src/StackDinamis.c.obj	72199c4d5bba063
+4	388	7377858684813550	build.ninja	66705677511fb350
+53	5075	7377856136164826	CMakeFiles/untitled.dir/src/calculator.c.obj	eafc4470d56b519c
